@@ -1,6 +1,8 @@
 Hello, World
-_Italic_Hello, World
-__Bold__Hello, World
+_Italic_ 
+Hello, World
+__Bold__
+Hello, World
 # Heading 1 Hello, World
 ## Heading 2 Hello, World
 >Blockquote Hello, World
