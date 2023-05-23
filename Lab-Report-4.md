@@ -16,7 +16,7 @@ Keys: "ls" "ctrl" + "r" "enter"
 ***
 ![Image](im3.png)
 ***
-Following this I used the keys:
+## Following this I used the keys:
 ***
 "ctrl"+"R" "ba" "enter"
 ***
@@ -24,7 +24,7 @@ Following this I used the keys:
 ***
 ![Image](im4.png)
 ***
-Once I saw the failures from step 6 I used vim in the code with the keys 
+## Once I saw the failures from step 6 I used vim in the code with the keys 
 ***
 Keys: "ctrl"+"r" "vim"
 ***
@@ -34,7 +34,7 @@ Keys: "k" "k" "h" "h" "del" "i" "2" "esc"
 ***
 ![Image](im5.png)
 ***
-After that I pressed the following in order to save and exit:
+## After that I pressed the following in order to save and exit:
 ***
 Keys: ":" "w" "q" "enter"
 ***
