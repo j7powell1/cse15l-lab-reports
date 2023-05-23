@@ -8,7 +8,7 @@ Then I cloned the repo:
 ***
 This was done with the keys:
 ***
-keys: <ctrl>+ <r> <git> <enter>
+keys: "ctrl" + "r" "git" "enter"
 ***
 After that I ls'd and used cd into lab7 via the keys:
 ***
