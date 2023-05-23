@@ -12,13 +12,13 @@ keys: "ctrl" + "r" "git" "enter"
 ***
 After that I ls'd and used cd into lab7 via the keys:
 ***
-"<ls> <ctrl> + <r> <enter>"
+Keys: "ls" "ctrl" + "r" "enter"
 ***
 ![Image](im3.png)
 ***
 Following this I used the keys:
 ***
-"<ctrl>+<R> <ba> <enter>"
+"ctrl"+"R" "ba" "enter"
 ***
 This let me run a test to see the number of failures the code provided
 ***
@@ -40,7 +40,7 @@ After that I pressed the following in order to save and exit:
 ***
 Then I ran the test one last time to see if they pass which they did:
 ***
-"<ctrl>+<r> <b> <a> <enter>"
+Keys:"ctrl"+"r" "b" "a" "enter"
 ***
 ![Image](im7.png)
 
