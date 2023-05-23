@@ -42,6 +42,6 @@ Then I ran the test one last time to see if they pass which they did:
 ***
 Keys:"ctrl"+"r" "b" "a" "enter"
 ***
-![Image](im7.png)
+![Image](im6.png)
 
 
