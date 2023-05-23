@@ -26,17 +26,17 @@ This let me run a test to see the number of failures the code provided
 ***
 Once I saw the failures from step 6 I used vim in the code with the keys 
 ***
-"<ctrl>+<r> <vim>"
+Keys: "ctrl"+"r" "vim"
 ***
 After going into the code I changed the last while statement via the keys:
 ***
-<k><k><h><h><del><i><2><esc>
+Keys: "k" "k" "h" "h" "del" "i" "2" "esc"
 ***
 ![Image](im5.png)
 ***
 After that I pressed the following in order to save and exit:
 ***
-"<:><w><w><enter>"
+Keys: ":" "w" "q" "enter"
 ***
 Then I ran the test one last time to see if they pass which they did:
 ***
