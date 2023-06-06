@@ -1,6 +1,8 @@
 # Student Question
-![Image](pmng3.png)
-
+![Image](png3.png)
+---
+# Student Terminal:
+![Image](png2.png)
 
 
 # TA resonse:
