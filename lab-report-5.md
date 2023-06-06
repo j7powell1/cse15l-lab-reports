@@ -14,4 +14,4 @@ This issue can be easily resolved by following the windows syntax which in this 
 ![Image](png4.png)
 ---
 # Reflection:
-I learned for one that solb=ving bugs with only a screenshot is extremely difficult. This fact has made me feel for the Ta's who spend their time helping students with only screenshots. In terms of the lab I feel it was interesting how simply messing up the class path can ruin the whole process of code.
+I learned for one that solving bugs with only a screenshot is extremely difficult. This fact has made me feel for the Ta's who spend their time helping students with only screenshots. In terms of the lab I feel it was interesting how simply messing up the class path can ruin the whole process of code.
