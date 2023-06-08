@@ -51,5 +51,13 @@ Keys: <:> <w> <q> <enter>
 Keys: <ctrl>+<r> <b> <a> <enter>
 ```
 ![Image](im6.png)
-
-
+# Step 9 The final step is to commit our changes to the github page:
+***
+## this is done with the command line: git commit -m "Final Product"
+```plaintext
+Keys: <git> <commit> <-m> <"Final Product"> <enter>
+```
+Then we push the changes with the command line: git push Lab4 main
+```plaintext
+Keys: <git> <space> <push> <space> <Lab4> <space> <main>
+```
